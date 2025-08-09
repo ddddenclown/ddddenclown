@@ -1,6 +1,4 @@
-# 💫 About Me:
-ЭЩКЕРЕЕЕ
-
+<img src="https://github.com/user-attachments/assets/b1a49a6c-151b-40e4-ad99-3f40b822a879" width="1200" height="250" />
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -19,10 +17,11 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ddddenclown&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ddddenclown&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=ddddenclown&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📬 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chto_eto_takoee)
+
